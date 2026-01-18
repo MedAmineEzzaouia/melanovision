@@ -8,7 +8,7 @@
 ## 📸 Platform Preview
 
 <div align="center">
-  <img src="screenshots/home-page.png" alt="MelanoVision Home Page" width="100%">
+  <img src="Home-Page/home-page.png" alt="MelanoVision Home Page" width="100%">
 </div>
 
 ## 🌟 Features
