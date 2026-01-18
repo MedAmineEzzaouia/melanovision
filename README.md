@@ -5,6 +5,12 @@
   <p>Advanced AI technology for melanoma detection with instant analysis and expert guidance</p>
 </div>
 
+## 📸 Platform Preview
+
+<div align="center">
+  <img src="screenshots/home-page.png" alt="MelanoVision Home Page" width="100%">
+</div>
+
 ## 🌟 Features
 
 - **🤖 AI-Powered Analysis**: Deep learning model for melanoma detection
@@ -121,9 +127,14 @@ MelanoVision is an AI-powered screening tool and should not replace professional
 
 For questions or support, please open an issue on GitHub.
 
+## 👨‍💻 Author
+
+**Mohamed Amine Ezzaouia**
+- GitHub: [@MedAmineEzzaouia](https://github.com/MedAmineEzzaouia)
+
 ---
 
 <div align="center">
-  <p>Built with ❤️ for early melanoma detection</p>
-  <p>© 2025 MelanoVision. Early detection saves lives.</p>
+  <p>Built with ❤️ for early melanoma detection by Mohamed Amine Ezzaouia</p>
+  <p>© 2026 MelanoVision. Early detection saves lives.</p>
 </div>
