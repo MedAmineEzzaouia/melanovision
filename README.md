@@ -79,23 +79,6 @@ python manage.py runserver
 
 The backend API will be available at `http://localhost:8000`
 
-## 🎨 Tech Stack
-
-### Frontend
-- **Framework**: Next.js 16
-- **UI Library**: React 19
-- **Styling**: Tailwind CSS
-- **Components**: Radix UI
-- **Icons**: Lucide React
-- **TypeScript**: Full type safety
-
-### Backend
-- **Framework**: Django 5.2
-- **API**: Django REST Framework
-- **ML**: PyTorch & Torchvision
-- **NLP**: NLTK
-- **Database**: SQLite (development)
-
 ## 📱 Features Overview
 
 ### 1. Skin Analysis
