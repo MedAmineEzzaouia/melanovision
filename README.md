@@ -119,14 +119,6 @@ Get personalized skincare recommendations:
 
 This project is for educational and research purposes.
 
-## ⚠️ Medical Disclaimer
-
-MelanoVision is an AI-powered screening tool and should not replace professional medical advice. Always consult with a certified dermatologist for proper diagnosis and treatment.
-
-## 👥 Contact
-
-For questions or support, please open an issue on GitHub.
-
 ## 👨‍💻 Author
 
 **Mohamed Amine Ezzaouia**
